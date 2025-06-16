@@ -1,0 +1,9 @@
+torch==2.1.0
+torchvision==0.16.0
+opencv-python==4.9.0.80
+mediapipe==0.10.9
+matplotlib==3.8.2
+Pillow==10.1.0
+numpy==1.26.2
+tqdm==4.66.1
+scikit-learn
